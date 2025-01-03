@@ -2,9 +2,9 @@
 
 Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References".
 
-![My cool image](asset/treaser1.png)
+![My cool image](assets/treaser1.png)
 
-![My cool image](asset/examples.PNG)
+![My cool image](assets/examples.PNG)
 
 ### Requirements
 
