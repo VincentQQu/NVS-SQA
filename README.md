@@ -4,6 +4,8 @@ Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Represent
 
 ![My cool image](assets/treaser1.png)
 
+
+#### More Examples:
 ![My cool image](assets/examples.PNG)
 
 ### Requirements
