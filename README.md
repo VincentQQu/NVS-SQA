@@ -90,7 +90,7 @@ After training, update the `version` and `epo_offset` in `evaluate.py` to match 
 
 @article{qu2024nvs,
   title={NVS-SQA: Exploring Self-Supervised Perceptual Quality Assessment of Neurally Synthesized Scenes without References},
-  author={Qu, Qiang and Shen, Yiran and Chung, Yuk Ying and Cai, Weidong and Chen, Xiaoming},
+  author={Qu, Qiang and Shen, Yiran and Chung, Yuk Ying and Cai, Weidong and Chen, Xiaoming and Liu, Tongliang},
   journal={Under Review},
   year={2025},
   publisher={NA}
