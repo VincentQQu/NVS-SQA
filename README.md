@@ -94,7 +94,7 @@ After training, update the `version` and `epo_offset` in `evaluate.py` to match 
 ### To Cite
 <pre>
 
-@article{qu2024nvs,
+@article{qu2025nvs,
   title={NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References},
   author={Qu, Qiang and Shen, Yiran and Chung, Yuk Ying and Cai, Weidong and Chen, Xiaoming and Liu, Tongliang},
   journal={Under Review},
