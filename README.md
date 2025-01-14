@@ -1,6 +1,6 @@
 # NVS-SQA
 
-Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References".
+Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References" [arxiv](https://arxiv.org/abs/2301.05852).
 
 ![My cool image](assets/treaser1.png)
 
@@ -97,9 +97,8 @@ After training, update the `version` and `epo_offset` in `evaluate.py` to match 
 @article{qu2025nvs,
   title={NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References},
   author={Qu, Qiang and Shen, Yiran and Chung, Yuk Ying and Cai, Weidong and Chen, Xiaoming and Liu, Tongliang},
-  journal={Under Review},
-  year={2025},
-  publisher={NA}
+  journal={arXiv preprint arXiv:2501.06488},
+  year={2025}
 }
 
 @article{qu2024nerf,
