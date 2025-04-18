@@ -40,10 +40,13 @@ print(f"Features saved to: {save_path}")
 
 
 
+
+
+
+#### Visualization of Some Examples:
+
 ![My cool image](assets/treaser1.png)
 
-
-#### More Examples:
 ![My cool image](assets/examples.PNG)
 
 ### Requirements
