@@ -17,7 +17,7 @@ pip install nvs_sqa
 
 #### Usage
 
-The package can be used programmatically. You can download the examples folder [here](https://github.com/VincentQQu/NVS-SQA/tree/main/examples). Here's an example of how to generate quality features and scores:
+The package can be used programmatically. You can download the **examples folder** [here](https://github.com/VincentQQu/NVS-SQA/tree/main/examples). Here's an example of how to generate quality features and scores:
 
 ```python
 import nvs_sqa
