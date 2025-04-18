@@ -34,6 +34,8 @@ all_feats, save_path = qa.generate_quality_features(eval_folder, verbose=True)
 # Compute quality scores
 quality_scores = qa.generate_quality_scores(all_feats, verbose=True)
 
+# The quality scores are in format of JOD score, mostly negative values (offset by reference quality), with higher scores indicating better quality.
+
 print(f"Features saved to: {save_path}")
 ```
 
