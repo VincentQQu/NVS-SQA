@@ -12,7 +12,7 @@ Please redirect to the [develop repo](https://github.com/VincentQQu/nvs_sqa) for
 You can install the package directly from PyPI:
 
 ```bash
-pip install nvs-sqa
+pip install nvs_sqa
 ```
 
 #### Usage
