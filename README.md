@@ -5,7 +5,7 @@ Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Represent
 
 ### New: you can now install it via pip!
 
-Please redirect to the [develop repo](https://github.com/VincentQQu/nvs_sqa) for details.
+Please redirect to the [developer repo](https://github.com/VincentQQu/nvs_sqa) for details.
 
 #### Installation
 
