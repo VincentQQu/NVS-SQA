@@ -2,6 +2,44 @@
 
 Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References" [arxiv](https://arxiv.org/abs/2501.06488)).
 
+
+### New: you can now install it via pip!
+
+Please redirect to the [develop repo](https://github.com/VincentQQu/nvs_sqa) for details.
+
+#### Installation
+
+You can install the package directly from PyPI:
+
+```bash
+pip install nvs-sqa
+```
+
+#### Usage
+
+The package can be used programmatically. You can download the examples folder [here](https://github.com/VincentQQu/NVS-SQA/tree/main/examples). Here's an example of how to generate quality features and scores:
+
+```python
+import nvs_sqa
+
+# Initialize the QualityAssessor
+qa = nvs_sqa.QualityAssessor()
+
+# Define the evaluation folder path containing NSS directories
+eval_folder = "./examples"
+
+# Generate quality features
+all_feats, save_path = qa.generate_quality_features(eval_folder, verbose=True)
+
+# Compute quality scores
+quality_scores = qa.generate_quality_scores(all_feats, verbose=True)
+
+print(f"Features saved to: {save_path}")
+```
+
+
+
+
 ![My cool image](assets/treaser1.png)
 
 
