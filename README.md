@@ -3,7 +3,7 @@
 Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References" [arxiv](https://arxiv.org/abs/2501.06488)).
 
 
-### New: You can now install it via pip!
+### New: you can now install it via pip!
 
 Please redirect to the [developer repo](https://github.com/VincentQQu/nvs_sqa) for details.
 
