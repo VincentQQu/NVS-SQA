@@ -17,7 +17,7 @@ pip install nvs_sqa
 
 #### Usage
 
-The package can be used programmatically. You can download the **examples folder** [here](https://github.com/VincentQQu/NVS-SQA/tree/main/examples). The quality scores are in format of JOD score, mostly negative values (offset by reference quality), with higher scores indicating better quality. The output format can be found in Section [Generating No-Reference Quality Representations with the Pretrained Model](### Generating No-Reference Quality Representations with the Pretrained Model) Here's an example of how to generate quality features and scores:
+The package can be used programmatically. You can download the **examples folder** [here](https://github.com/VincentQQu/NVS-SQA/tree/main/examples). The quality scores are in format of JOD score, mostly negative values (offset by reference quality), with higher scores indicating better quality. The output format can be found in Section [Generating No-Reference Quality Representations with the Pretrained Model](#Generating No-Reference Quality Representations with the Pretrained Model) Here's an example of how to generate quality features and scores:
 
 ```python
 import nvs_sqa
