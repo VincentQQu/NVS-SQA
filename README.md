@@ -86,7 +86,7 @@ Execute `python3 evaluate.py` to obtain datasetwise and scenewise experiment res
 | SRCC  | 0.5000  | 0.9000 | 0.8000  | 0.1000            | 0.8000   | 1.0000   | 0.0000  | 0.9000 | 0.7000   | 0.9000  | 0.9000 | 0.9000              | 0.9000 | 0.7000 | 0.9000   | 0.8000 | 0.9000     | 0.8000  | 0.8000         | 0.7000 | 0.9000 | 0.9000 | 1.0000 | 1.0000 |
 | PLCC  | 0.2545  | 0.7628 | 0.8159  | 0.0470            | 0.8035   | 0.9944   | -0.3679 | 0.7713 | 0.6554   | 0.9361  | 0.9735 | 0.9432              | 0.7288 | 0.8445 | 0.9395   | 0.7438 | 0.8370     | 0.9498  | 0.7087         | 0.7369 | 0.9704 | 0.8341 | 0.9901 | 0.9734 |
 
-[### Generating No-Reference Quality Representations with the Pretrained Model](#output_format)
+### [Generating No-Reference Quality Representations with the Pretrained Model](#output_format)
 
 To generate quality features for example Neurally Synthesized Scenes (NSS), follow these steps:
 
