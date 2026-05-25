@@ -1,6 +1,6 @@
 # NVS-SQA
 
-Official implementation of "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References" [arxiv](https://arxiv.org/abs/2501.06488)) (accepted by TPAMI).
+Official implementation of TPAMI paper "NVS-SQA: Exploring Self-Supervised Quality Representation Learning for Neurally Synthesized Scenes without References" [arxiv](https://arxiv.org/abs/2501.06488) [TPAMI](https://ieeexplore.ieee.org/document/11222921) (accepted by TPAMI).
 
 
 ### New: you can now install it via pip!
